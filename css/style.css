@@ -1,0 +1,21 @@
+
+li{
+color:green;
+display: inline ;
+margin-left: 10px;
+text-align: center;
+background:#0FC16C;
+color: white;
+
+
+
+}
+li:hover{
+  background-color:purple
+
+
+}
+.bookingNav{
+float: right;
+
+}
